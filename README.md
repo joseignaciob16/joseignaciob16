@@ -5,3 +5,11 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](#) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#)
+
+
+## 🛠️ My favorite tools
+
+### 👨‍💻 Programming languages
+
+<p>
+<a href="https://github.com/topics/bash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
