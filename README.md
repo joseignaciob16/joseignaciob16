@@ -78,7 +78,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseignaciob16&show_icons=true&locale=en&theme=tokyonight" alt="joseignaciob16" />       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseignaciob16&&theme=tokyonight" alt="joseignaciob16" /></p>
 
-<p>
-  <a align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseignaciob16&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joseignaciob16" />
-  </a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseignaciob16&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joseignaciob16" /></p>
