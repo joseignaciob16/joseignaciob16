@@ -81,4 +81,4 @@
 
 <p>&nbsp;<img align="leftr" src="https://github-readme-stats.vercel.app/api?username=joseignaciob16&show_icons=true&locale=en&theme=tokyonight" alt="joseignaciob16" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseignaciob16&&theme=tokyonight" alt="joseignaciob16" /></p>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joseignaciob16" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseignaciob16&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joseignaciob16" /></p>
