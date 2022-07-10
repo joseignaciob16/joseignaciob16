@@ -6,14 +6,18 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](#) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#)
 
+<img align="right" alt="Coding" width="300" src="https://github.com/joseignaciob16/joseignaciob16/blob/main/GifProgramming.gif">
+
 - 🔭 Student of **Systems engineering**
 - 🌱 I’m currently learning **Nmap**
 - 💬 Ask me about **Android , JAVA**
 
 
+### 📱Social Media
 
-<p align="center">
- <a href="https://twitter.com/joseignaciob16" target="_blank">
+
+<p>
+ <a align="center"">
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 2px;" />
  </a>
 
@@ -26,7 +30,6 @@
 </a>
 
 </p>
-
 
   
 ## 🛠️ My favorite tools
@@ -78,4 +81,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseignaciob16&show_icons=true&locale=en&theme=tokyonight" alt="joseignaciob16" />       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseignaciob16&&theme=tokyonight" alt="joseignaciob16" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseignaciob16&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joseignaciob16" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joseignaciob16" /></p>
