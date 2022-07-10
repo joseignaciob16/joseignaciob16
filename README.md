@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2> Hi, I'm Jose Ignacio! <img src="     " width="35"></h2>
 
 <!--
 **joseignaciob16/joseignaciob16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
