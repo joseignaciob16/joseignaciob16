@@ -6,13 +6,29 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](#) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#)
 
+- 🔭 Student of **Systems engineering**
+- 🌱 I’m currently learning **Nmap**
+- 💬 Ask me about **Android , JAVA**
+
+
+
 <p align="center">
+ <a href="https://twitter.com/joseignaciob16" target="_blank">
+  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 2px;" />
+ </a>
 
-  <a href="https://twitter.com/joseignaciob16" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-Jose%20Ignacio-blue?logo=twitter&logoColor=blue&color=blue" />
-  </a>
+ <a href="https://linkedin.com/in/joseignaciob16" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 2px;" />
+</a>
+  
+ <a href="https://www.reddit.com/r/joseignaciob16" target="_blank">
+	<img src="https://img.shields.io/badge/reddit%20-%239146FF.svg?&style=for-the-badge&logo=Reddit&logoColor=white" alt="reddit" style="margin-bottom: 2px;" />
+</a>
+
+</p>
 
 
+  
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -55,4 +71,14 @@
 <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+</p>
+
+
+## 📊 Statistics
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseignaciob16&show_icons=true&locale=en&theme=tokyonight" alt="joseignaciob16" />       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseignaciob16&&theme=tokyonight" alt="joseignaciob16" /></p>
+
+<p>
+  <a align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseignaciob16&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joseignaciob16" />
+  </a>
 </p>
