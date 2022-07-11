@@ -17,9 +17,10 @@
 
 
 <p>
- <a align="center"">
+ 
+ <a href="https://twitter.com/joseignaciob16" target="_blank">
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 2px;" />
- </a>
+</a>
 
  <a href="https://linkedin.com/in/joseignaciob16" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 2px;" />
