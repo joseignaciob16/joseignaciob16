@@ -25,7 +25,7 @@
   <img src=https://img.shields.io/badge/linkedin-%231E77B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 2px;" />
 </a>
   
- <a href="https://www.reddit.com/r/joseignaciob16" target="_blank">
+ <a href="https://www.reddit.com/user/joseignaciob16" target="_blank">
 	<img src="https://img.shields.io/badge/reddit%20-%239146FF.svg?&style=for-the-badge&logo=Reddit&logoColor=white" alt="reddit" style="margin-bottom: 2px;" />
 </a>
 
