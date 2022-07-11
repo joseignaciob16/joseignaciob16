@@ -15,9 +15,7 @@
 
 ### 📱Social Media
 
-
 <p>
- 
  <a href="https://twitter.com/joseignaciob16" target="_blank">
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 2px;" />
 </a>
@@ -29,10 +27,9 @@
  <a href="https://www.reddit.com/user/joseignaciob16" target="_blank">
 	<img src="https://img.shields.io/badge/reddit%20-%239146FF.svg?&style=for-the-badge&logo=Reddit&logoColor=white" alt="reddit" style="margin-bottom: 2px;" />
 </a>
-
 </p>
 
-  
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -78,8 +75,24 @@
 </p>
 
 
+
 ## 📊 Statistics
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseignaciob16&&theme=tokyonight" alt="joseignaciob16" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseignaciob16&show_icons=true&theme=radical"/>
+</a>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseignaciob16&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joseignaciob16" /></p>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
