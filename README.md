@@ -5,19 +5,15 @@
   </a>
 </h1>
 
-
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](#) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#)
 
-<p>
 - 🔭 Student of **Systems engineering**
-</p>
-
 
 <img src="https://raw.githubusercontent.com/artart222/artart222/output/github-contribution-grid-snake.svg">
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=joseignaciob16&show_icons=true&theme=radical"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=joseignaciob16&show_icons=true&locale=en&layout=compact" alt="joseignaciob16"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joseignaciob16&show_icons=true&locale=en" alt="joseignaciob16" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joseignaciob16&show_icons=true&locale=en&layout=compact" alt="joseignaciob16"/>
 </p>
   
