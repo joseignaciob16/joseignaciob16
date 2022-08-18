@@ -10,8 +10,5 @@
 
 <img src="https://raw.githubusercontent.com/artart222/artart222/output/github-contribution-grid-snake.svg">
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=joseignaciob16&show_icons=true&locale=en" alt="joseignaciob16" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joseignaciob16&show_icons=true&locale=en&layout=compact" alt="joseignaciob16"/>
-</p>
-  
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joseignaciob16&show_icons=true&locale=en&layout=compact" alt="joseignaciob16"/> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseignaciob16&" alt="joseignaciob16" /></p>
