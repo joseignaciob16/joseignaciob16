@@ -7,5 +7,3 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#)
 
 <img src="https://raw.githubusercontent.com/artart222/artart222/output/github-contribution-grid-snake.svg">
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseignaciob16&" alt="joseignaciob16" /> </p>
