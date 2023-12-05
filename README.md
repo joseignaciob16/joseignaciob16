@@ -6,4 +6,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://tenor.com/view/linus-torvalds-linus-nvidia-fuck-you-gif-19475186) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#)
 
-<img src="https://raw.githubusercontent.com/artart222/artart222/output/github-contribution-grid-snake.svg">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseignaciob16&hide=contribs,prs&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseignaciob16&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
